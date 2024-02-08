@@ -1,0 +1,15 @@
+{
+  "name": "url-shortening-api-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Samar Sheikh - URL shortening API landing page",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "devDependencies": {
+    "prettier": "1.19.1",
+    "live-server": "1.2.1"
+  },
+  "keywords": [],
+  "author": "Samar Sheikh",
+}
